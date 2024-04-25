@@ -17,5 +17,10 @@ class ViewController: UIViewController {
     private func doSomething() {
         print("user status on log")
     }
+
+
+    public func somethingDone() {
+        print("")
+    }
 }
 
